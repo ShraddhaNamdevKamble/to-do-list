@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//ShraddhaNamdevKamble.github.io/to-do-list/static/css/main.45f9827a.css",
+    "main.js": "/https//ShraddhaNamdevKamble.github.io/to-do-list/static/js/main.3a8b4a60.js",
+    "static/media/logo.svg": "/https//ShraddhaNamdevKamble.github.io/to-do-list/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/https//ShraddhaNamdevKamble.github.io/to-do-list/index.html",
+    "main.45f9827a.css.map": "/https//ShraddhaNamdevKamble.github.io/to-do-list/static/css/main.45f9827a.css.map",
+    "main.3a8b4a60.js.map": "/https//ShraddhaNamdevKamble.github.io/to-do-list/static/js/main.3a8b4a60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f9827a.css",
+    "static/js/main.3a8b4a60.js"
+  ]
+}
